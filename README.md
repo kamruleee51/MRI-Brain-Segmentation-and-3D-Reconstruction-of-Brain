@@ -1,3 +1,3 @@
 # MRI-Brain-Segmentation-and-3D-Reconstruction-of-Brain
 ## Md. Kamrul Hasan
-[![Awesome](https://www.flickr.com/photos/tjs-biomedical/15684014227)]
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
